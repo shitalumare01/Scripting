@@ -5,4 +5,6 @@ echo "I am learning Git/Github"
 echo "I have added new code"
 echo "I am from batch-30 and learning DevOps"
 echo "This is my first commit in DevOps"
+echo "My name is Shital"
+echo "My surname is Umare"
 
